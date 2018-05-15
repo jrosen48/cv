@@ -13,7 +13,8 @@ jobtitle: "PhD Student, Michigan State University"
 fontawesome: yes
 
 email: bret@bretsw.com
-linkedin: bretsw  # need to figure out how to link
+linkedin: bretsw
+twitter: bretsw
 github: bretsw
 # phone: ""
 web: bretsw.com
