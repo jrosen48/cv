@@ -1,7 +1,3 @@
-## Credit to @svmiller
-## https://github.com/svmiller/svm-r-markdown-templates
-## http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
-
 ---
 output: 
   pdf_document:
@@ -13,11 +9,12 @@ title: "CV"
 author: K. Bret Staudt Willet
 
 jobtitle: "PhD Student, Michigan State University"
-address: ""
+# address: ""
 fontawesome: yes
+
 email: bret@bretsw.com
 github: bretsw
-phone: "+001 717 575 2867"
+# phone: ""
 web: bretsw.com
 updated: yes
 
@@ -28,6 +25,13 @@ fontfamilyoptions: sc, osf
 fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
+
+
+# credit to Steven Miller
+# http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
+# https://github.com/svmiller/svm-r-markdown-templates
+
+
 ---
 
 # Employment
@@ -90,3 +94,6 @@ Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery
 # References
 
 Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+
+---
+
