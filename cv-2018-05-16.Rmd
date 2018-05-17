@@ -38,17 +38,23 @@ urlcolor: blue
 
 # Education
 
-*Michigan State University*  
-PhD Educational Psychology & Educational Technology \hfill 2018 (Expected)  
-Graduate Certificate, Science Education \hfill 2017  
-MA Educational Technology \hfill 2012  
+PhD, Educational Psychology & Educational Technology  
+Michigan State University \hfill 2018 (Expected)  
 
-*University of North Carolina, Asheville*  
-BS Biology \hfill 2010  
-Teacher Licensure Program \hfill 2010  
+Graduate Certificate, Science Education  
+Michigan State University \hfill 2017  
+
+MA, Educational Technology  
+Michigan State University \hfill 2012  
+
+BS, Biology  
+University of North Carolina, Asheville \hfill 2010  
+
+Teacher Licensure Program  
+University of North Carolina, Asheville \hfill 2010  
 
 # Professional Experience
-*Assistant Professor of STEM Education* \hfill 2018 (August)  
+Assistant Professor of STEM Education \hfill 2018 (August)  
 Department of Theory and Practice in Teacher Education  
 College of Education, Health, and Human Sciences  
 University of Tennessee, Knoxville
@@ -106,7 +112,7 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 
 ## Peer-Reviewed Conference Presentations
 
-* Conference Proceedings Paper
+Conference Proceedings Paper Indicated with an `*`
 
 Beymer, P. N., Rosenberg, J.M.,  & Schmidt, J. A. (2018, April). Investigating the effects of interest and choice: An experience sampling approach. Paper to be presented at the Annual Meeting of the American Educational Research Association New York, NY.
 
@@ -251,15 +257,18 @@ American Psychological Association Advanced Training Institute on Research Metho
 
 # Software Developed
 
+Rosenberg, J. M., Xu, R., & Frank, K. (2018). konfound: Sensitivity analysis based on Rubin’s causal model [Statistical software for R]. Retrieved from https://github.com/jrosen48/konfound
+
+Rosenberg, J. M., Xu, R., & Frank, K. (2018). konfound: Sensitivity analysis based on Rubin’s causal model [Interactive web application]. Retrieved from https://jmichaelrosenberg.shinyapps.io/shinykonfound/
+
+Rosenberg, J. M., Schmidt, J. A., & Beymer, P. N. (2018). tidyLPA:  Interface to MCLUST to perform Latent Profile Analysis in R. [Statistical software for R]. Retrieved from https://github.com/jrosen48/tidyLPA
+
+Rosenberg, J. M. (2018). railtrails: Rail trail data for trails in the Snited States from the Rails-to-Trails Conservancy (v. 0.0.3). Retireved from https://cran.r-project.org/package=railtrails
+
 Rosenberg, J. M., Schmidt, J. A., & Beymer, P. N. (2017). prcr: Person-centered analysis. [Statistical software for R]. Retrieved from https://cran.r-project.org/web/packages/prcr/index.html
 
 Rosenberg, J. M., & Lishinski, A. (2017). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [Statistical software for R]. Retrieved from https://cran.r-project.org/web/packages/clustRcompaR/index.html
 
-Rosenberg, J. M., Xu, R., & Frank, K. (2017). konfound: Sensitivity analysis based on Rubin’s causal model [Statistical software for R]. Retrieved from https://github.com/jrosen48/konfound
-
-Rosenberg, J. M., Xu, R., & Frank, K. (2017). konfound: Sensitivity analysis based on Rubin’s causal model [Interactive web application]. Retrieved from https://jmichaelrosenberg.shinyapps.io/shinykonfound/
-
-Rosenberg, J. M., Schmidt, J. A., & Beymer, P. N. (2017). tidyLPA:  Interface to MCLUST to perform Latent Profile Analysis in R. [Statistical software for R]. Retrieved from https://github.com/jrosen48/tidyLPA
 
 Rosenberg, J. M. (2016). Diffusion & Temperature – AP Physics 2 (MVS). [Interactive science simulation]. Retrieved from [http://lab.concord.org/interactives.html - interactives/external-projects/msu/temperature-diffusion.json](http://lab.concord.org/interactives.html - interactives/external-projects/msu/temperature-diffusion.json)
 
