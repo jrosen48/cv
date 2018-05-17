@@ -255,23 +255,25 @@ American Educational Research Association Division C Graduate Student Seminar \h
 National Science Foundation and Association for Educational Communications and Technology Early Career Seminar \hfill 2015
 American Psychological Association Advanced Training Institute on Research Methods with Diverse Groups \hfill 2014
 
-# Software Developed
+## R packages on Comprehensive R Archive Network (CRAN)
 
-Rosenberg, J. M., Xu, R., & Frank, K. (2018). konfound: Sensitivity analysis based on Rubin’s causal model [Statistical software for R]. Retrieved from https://github.com/jrosen48/konfound
+* prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut; v. 0.2.0). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M., Xu, R., & Frank, K. (2018). konfound: Sensitivity analysis based on Rubin’s causal model [Interactive web application]. Retrieved from https://jmichaelrosenberg.shinyapps.io/shinykonfound/
+* clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski; v. 0.2.0). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M., Schmidt, J. A., & Beymer, P. N. (2018). tidyLPA:  Interface to MCLUST to perform Latent Profile Analysis in R. [Statistical software for R]. Retrieved from https://github.com/jrosen48/tidyLPA
+* railtrails: Rail trail data for trails in the Snited States from the Rails-to-Trails Conservancy (v. 0.0.3). CRAN: https://cran.r-project.org/package=railtrails <a href = "https://github.com/jrosen48/railtrails"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> [the railtrails data is also available as a [CSV](/_media/data/railtrails.csv)]
 
-Rosenberg, J. M. (2018). railtrails: Rail trail data for trails in the Snited States from the Rails-to-Trails Conservancy (v. 0.0.3). Retireved from https://cran.r-project.org/package=railtrails
+* tidyLPA: Interface to MCLUST to perform Latent Profile Analysis in R (w/ J. Schmidt, P. Beymer, & R. Steingut; v. 0.1.0). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M., Schmidt, J. A., & Beymer, P. N. (2017). prcr: Person-centered analysis. [Statistical software for R]. Retrieved from https://cran.r-project.org/web/packages/prcr/index.html
+## R packages on GitHub
 
-Rosenberg, J. M., & Lishinski, A. (2017). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [Statistical software for R]. Retrieved from https://cran.r-project.org/web/packages/clustRcompaR/index.html
+* konfound: R package to carry out sensitivity analysis (with R. Xu & K. Frank). [https://github.com/jrosen48/konfound](https://github.com/jrosen48/konfound) <a href = "https://github.com/jrosen48/konfound"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
+## Shiny Web Applications
 
-Rosenberg, J. M. (2016). Diffusion & Temperature – AP Physics 2 (MVS). [Interactive science simulation]. Retrieved from [http://lab.concord.org/interactives.html - interactives/external-projects/msu/temperature-diffusion.json](http://lab.concord.org/interactives.html - interactives/external-projects/msu/temperature-diffusion.json)
+* Konfound: [https://jmichaelrosenberg.shinyapps.io/shinykonfound/](https://jmichaelrosenberg.shinyapps.io/shinykonfound/) <a href = "https://github.com/jrosen48/shinykonfound"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
+* State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
 # Teaching
 
 ## Teaching Awards
